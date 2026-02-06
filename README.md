@@ -1,13 +1,13 @@
 # Integrated Intelligent Recommendation System
 
-## 📌 Project Overview
+## Project Overview
 The Integrated Intelligent Recommendation System is a web-based platform designed to improve user experience by providing personalized product and content recommendations. The system collects user behavior data such as browsing history and interactions, and applies recommendation logic to generate customized suggestions.
 
 This project demonstrates the integration of database systems, web development, and intelligent recommendation techniques within an Agile Scrum development framework.
 
 ---
 
-## 🎯 Project Objectives
+## Project Objectives
 - Design and develop a database-driven web platform
 - Collect and analyze user behavior data
 - Implement personalized recommendation logic
@@ -16,7 +16,7 @@ This project demonstrates the integration of database systems, web development, 
 
 ---
 
-## ⭐ Key Features
+## Key Features
 - User authentication and account management
 - Product browsing and search functionality
 - User behavior tracking module
@@ -26,7 +26,7 @@ This project demonstrates the integration of database systems, web development, 
 
 ---
 
-## 🛠 Technology Stack
+## Technology Stack
 
 ### Frontend
 - React.js
@@ -45,15 +45,11 @@ This project demonstrates the integration of database systems, web development, 
 
 ---
 
-## 👥 Team Members
+## Team Members
 - Hongyuan Zhang
 - Pengfei Zhang
 
 ---
 
-## 📅 Development Methodology
+## Development Methodology
 This project follows the Agile Scrum methodology. Development is divided into multiple sprints including requirement analysis, system design, implementation, testing, and evaluation.
-
----
-
-## 📂 Project Structure
